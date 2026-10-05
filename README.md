@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**Estherr-Koye/Estherr-Koye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Esther Okoye
 
 - 🔭 I’m currently working on some python projects that will help me learn how to use Git hub for version control. 
 - 🌱 I’m currently learning programming and aspire to become a software engineer
